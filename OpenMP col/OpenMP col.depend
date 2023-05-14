@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683963011 source:d:\gcc\gcc\64\openmp col\main.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<omp.h>
+

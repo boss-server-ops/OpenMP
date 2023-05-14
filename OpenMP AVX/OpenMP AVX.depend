@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683982817 source:d:\gcc\gcc\64\openmp avx\main.cpp
+	<iostream>
+	<Windows.h>
+	<fstream>
+	<omp.h>
+	<immintrin.h>
+
